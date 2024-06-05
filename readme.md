@@ -2,7 +2,7 @@
 
 Este é um projeto criado para o bootcamp "Fundamentos de IA para Devs", organizado pelo **Banco Santander** e a escola **DIO**.
 
-O tema **Engenharia de Requisitos** é abordado de uma forma simples e resumida, e os conceitos são aplicados para um caso prático : desenvolver um aplicativo para Petsop.
+O tema **Engenharia de Requisitos** é abordado de uma forma simples e resumida, e os conceitos são aplicados para um caso prático : desenvolver um aplicativo para Petshop.
 
 # Ferramentas
 
